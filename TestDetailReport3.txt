@@ -1,0 +1,46 @@
+Movie Title:        Bambi               
+Year Made:          1942                
+Studio:             Disney              
+Stars:              1)Bambi 
+           
+Gross Income:       424566310           
+
+****************************************************
+Movie Title:        Gone With The Wind  
+Year Made:          1939                
+Studio:             MGM                 
+Stars:              1)Clark Gable
+                    2)Vivien Leigh
+
+Gross Income:       1218328752          
+
+****************************************************
+Movie Title:        Jaws                
+Year Made:          1975                
+Studio:             Universal           
+Stars:              1)Roy Scheider
+                    2)Richard Dreyfuss
+                    3)Robert Shaw
+
+Gross Income:       772315273           
+
+****************************************************
+Movie Title:        Star Wars           
+Year Made:          1977                
+Studio:             Fox                 
+Stars:              1)Mark Hamill
+                    2)Harrison Ford
+                    3)Carrie Fisher
+
+Gross Income:       1074061157          
+
+****************************************************
+Movie Title:        Titanic             
+Year Made:          1997                
+Studio:             Paramount           
+Stars:              1)Leonardo DiCaprio
+                    2)Kate Winslet
+
+Gross Income:       779086619           
+
+****************************************************

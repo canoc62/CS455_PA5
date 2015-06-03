@@ -1,0 +1,6 @@
+Title                    Gross Income             Year                     Studio                   
+Bambi                    $424566310.00            1942                     Disney                   
+Gone With The Wind       $1218328752.00           1939                     MGM                      
+Jaws                     $772315273.00            1975                     Universal                
+Star Wars                $1074061157.00           1977                     Fox                      
+Titanic                  $779086619.00            1997                     Paramount                

@@ -1,0 +1,7 @@
+Studio Name    #ofMovies      Total Gross Income
+MGM            1              $1218328752.00 
+Paramount      1              $779086619.00  
+Fox            2              $2317514613.00 
+Disney         1              $424566310.00  
+Universal      1              $772315273.00  
+Warner Brothers0              $0.00          
